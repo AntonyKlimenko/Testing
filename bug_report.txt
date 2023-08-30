@@ -1,0 +1,14 @@
+Bug report
+
+1. ID
+2. Priority
+3. Severity
+4. Summury
+5. Steps to reproduce
+6. Actual result
+7. Extended result
+8. Reporter
+9. Assigne
+10. Enviroment
+11. Compomemt
+12. Labels
